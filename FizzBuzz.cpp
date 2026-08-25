@@ -1,5 +1,5 @@
 /* Let's give Fizz Buzz a crack.
-This program outputs numbers 1-100, but for multiples of 3, it prints Fixx instead of the numbers, and for multiples of 5, 
+This program outputs numbers 1-100, but for multiples of 3, it prints Fizz instead of the numbers, and for multiples of 5, 
 it prints Buzz. For numbers that are multiples of both 3 and 5, print, FizzBuzz. */
 
 // Libraries
