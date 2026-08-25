@@ -58,7 +58,7 @@ int main() {
     }
 
     // Output Question 3
-    std::cout << "Q2) Which kind of instrument most pleases your ear?\n";
+    std::cout << "Q3) Which kind of instrument most pleases your ear?\n";
     std::cout << "1) The violin\n";
     std::cout << "2) The trumpet\n";
     std::cout << "3) The piano\n";
@@ -80,8 +80,8 @@ int main() {
       std::cout << "Invalid input\n";
     }
 
-   // Output Question 3
-    std::cout << "Q3) Which road tempts you most?\n";
+   // Output Question 4
+    std::cout << "Q4) Which road tempts you most?\n";
     std::cout << "1) The wide, sunny grassy lane\n";
     std::cout << "2) The narrow, dark, lantern-lit alley\n";
     std::cout << "3) The twisting, leaf-strewn path through woods\n";
