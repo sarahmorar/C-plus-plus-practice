@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <ctime>
 
-int Main() {
+int main() {
     
   srand (time(NULL));
   int	fortune = rand() % 10;
@@ -13,7 +13,7 @@ int Main() {
   
   } else if (fortune == 1) {
     
-    std::cout << "Don't behave with cold manners.\n"
+    std::cout << "Don't behave with cold manners.\n";
   
   } else if (fortune == 2) {
     
@@ -27,7 +27,7 @@ int Main() {
     
     std::cout << "A conclusion is simply the place where you got tired of thinking.\n";
     
-  } else if (fortune ==) {
+  } else if (fortune == 5) {
     
     std::cout << "No snowflake feels responsible in an avalanche.\n";
     
@@ -43,7 +43,7 @@ int Main() {
     
     std::cout << "You will die alone and poorly dressed.\n";
       
-  } else if (fortune == 9 {
+  } else if (fortune == 9) {
     
     std::cout << "The fortune you seek is in another cookie.\n";
       
